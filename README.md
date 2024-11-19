@@ -5,7 +5,3 @@ Conception d'un site de restauration (uniquement le front-end) en utilisant Java
 
 ![screencapture-file-C-Users-shyam-Desktop-Conception-Site-Restaurant-main-restaurant-table-reservation-main-index-html-2024-11-19-23_51_17](https://github.com/user-attachments/assets/b45640cf-576c-4858-ad7f-92f498d3fa4a)
 
-
-![screencapture-file-C-Users-shyam-Desktop-Conception-Site-Restaurant-main-restaurant-table-reservation-main-form-html-2024-11-19-23_51_14](https://github.com/user-attachments/assets/6cd5526e-d4da-42fa-a993-d11d17ed733c)
-
-
